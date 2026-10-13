@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"二维码工作台 · 趁手 × 轻办","version":"1.0.1","description":"当前网页一键生成二维码，支持编辑、超长分片、PNG/ZIP下载及本地图片识别。","permissions":["activeTab"],"action":{"default_popup":"index.html","default_title":"二维码工作台"},"icons":{"128":"icon.png"}}

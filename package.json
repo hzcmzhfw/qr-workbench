@@ -1,0 +1,1 @@
+{"name":"qr-workbench","version":"1.0.1","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.js","verify":"node scripts/verify.mjs","package":"python3 scripts/package.py"},"dependencies":{"fflate":"^0.8.3","jsqr":"1.4.0","qrcode-generator":"1.4.4"},"devDependencies":{"esbuild":"0.25.12","playwright":"1.59.1"}}
